@@ -1,5 +1,5 @@
 # Marketing-Analytics-Bootcamp-Final-Project-
-Scenario. For this project we created website and marketing strategy for a startup company named Think Tank working space. 
+Scenario: For this project we created website and marketing strategy for a startup company named Think Tank working space. 
 Problem: 
 The Think Tank Academy - education provider in Berlin, Leipzig and Hamburg. Due to the pandemic students have transferred to an online/ remote learning. As a result the classrooms are empty in these 3 locations across the country. 
 
